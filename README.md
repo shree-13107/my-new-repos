@@ -1,2 +1,2 @@
 # my-new-repos
-my _repos
+my first git repos
